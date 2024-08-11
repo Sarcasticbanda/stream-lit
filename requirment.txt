@@ -1,2 +1,2 @@
-tkinter
+streamlit
 sqlite
